@@ -1,6 +1,6 @@
 # AutoTextLink
 
-Converting urls in a given text to `a` tags.
+Convert urls in a given text to `a` tags.
 
 # Installation
 ```
