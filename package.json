@@ -1,8 +1,12 @@
 {
   "name": "auto-text-link",
   "version": "1.0.0",
-  "description": "",
+  "description": "Convert urls in a given text to "a" tags.",
   "main": "lib/auto_text_link.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hokuma/auto-text-link"
+  },
   "scripts": {
     "build": "babel src -d lib",
     "start": "budo examples/bundle.js --dir examples -- -t babelify",
